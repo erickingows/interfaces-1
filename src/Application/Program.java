@@ -33,6 +33,8 @@ public class Program {
 		System.out.println("Tax: " + rental.getTax());
 		System.out.println("Total payment: " + (rental.calculateValue() + rental.getTax()));
 		
+		
+		//COMMIT AND PUSHING 17:16 PARA TESTAR
 	}
 
 }
